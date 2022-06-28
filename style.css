@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+    font-family: "Comic Sans MS";
+}
+
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+.main {
+    width: 1200px;
+    height: max-content;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+.input-text {
+    height: 30px;
+    width: 1100px;
+    font-family: cursive;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.text {
+    font-family: cursive;
+    font-size: 24px;
+    width: 1100px;
+}
